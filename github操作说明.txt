@@ -1,0 +1,8 @@
+1、新建目录
+2、鼠标右键，打开git -> Git Bash Here -> git init
+3、git add test.txt或git add --all
+4、git commit -m "第一次提交"
+5、去github上创建自己的Repository
+6、git remote add origin https://github.com/jiangjinggen/net.git
+7、git pull --rebase origin master
+8、git push -u origin master
