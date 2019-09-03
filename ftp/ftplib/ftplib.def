@@ -1,0 +1,8 @@
+LIBRARY	ftpdll.dll
+EXPORTS
+	FtpInit            @1
+	FtpConnect         @2
+	FtpLogin           @3
+	FtpDir             @4
+	FtpGet             @5
+	FtpQuit            @6
